@@ -1,0 +1,10 @@
+http:
+  port: "8084"
+  path: "api"
+  
+db:
+  host: "localhost"
+  port: "3306"
+  dbname: "muledb"
+  user: "MACH_DEV"
+  password: "![oWmtpE4W9O5c6qV0CaAdDw==]"

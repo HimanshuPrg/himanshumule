@@ -1,0 +1,28 @@
+http:
+  port: "8084"
+  path: "api"
+  
+#local mysql DB configuration
+#db:
+#  host: "localhost"
+#  port: "3306"
+#  user: "MACH_DEV"
+# password: "![oWmtpE4W9O5c6qV0CaAdDw==]"
+
+#cloud Oracle DB Configuration
+db:
+  host: "oracle-86532-0.cloudclusters.net"
+  port: "18680"
+  user: "uhubdevuser"
+  password: "![CG7aUf/v213U4KiLFu2m+w==]"
+  instance: "xe"
+  
+#cloud Mysql DB Configuration
+#db:
+#  host: "mysql-86537-0.cloudclusters.net"
+#  port: "19724"
+#  user: "uhubdevuser"
+#  password: "![CG7aUf/v213U4KiLFu2m+w==]"
+
+
+ 
